@@ -1,9 +1,8 @@
-# \[Group name\]
+# \[SMP\]
 
 **Group members:**
-- A
-- B
-- C
+- zbx336
+- cng782
 
 This repository contains  
 1. Inaugural project. 
