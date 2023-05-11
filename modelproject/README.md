@@ -5,6 +5,7 @@
 The **results** of the project can be seen from running [XXX]
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires:
+
      !pip install yfinance
      !pip install pandas-datareader
      !pip install matplotlib inline
