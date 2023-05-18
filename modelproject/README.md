@@ -2,7 +2,7 @@
 
 **Numerical optimization of the Sharpe Ratio** 
 
-The **results** of the project can be seen from running [XXX]
+The **results** of the project can be seen from running [/Model_Project_-_SMP_-_Exam.ipynb]
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires:
 
