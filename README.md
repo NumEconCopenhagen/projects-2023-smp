@@ -5,10 +5,9 @@
 - cng782
 
 This repository contains  
-1. Inaugural project. 
+1. Inaugural project
+2. Data Project
+3. Model roject
+4. Exam
 
-
-###2. Data project. We fetch data from **source x** on **y** and show that ...
-
-
-4. Model project. We model ...
+Further presentations can be found in each repository 
